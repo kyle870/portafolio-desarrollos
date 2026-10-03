@@ -6,7 +6,7 @@ La institución previo al desarrollo del sistema gestionaba la información de s
 
 ## _Arquitectura_
 
-![Arquitectura_SISRH](/Universidad_Central_de_Nicaragua/arquitectura_sisrh.png)
+![Arquitectura_SISRH](/Universidad_Central_de_Nicaragua/resources/arquitectura_sisrh.png)
 
 ### Backend
 
