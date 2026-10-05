@@ -13,9 +13,12 @@ El mayor cuello de botella se presentaba al momento de organizar los datos para 
 
 > **_Los dispositivos de asistencia_:** La institución contaba con dispositivos de registros de entrada y salida del personal, estos almacenaban los registros en bases de datos Access, lo cual implicaba en una falta grave en la centralización de datos, debido a que toda la información de la base de datos se encontraba en el disco duro del computador de la persona encargada de administrar el dispositivo.
 
+## Levantamiento de requerimientos
 
+## Arquitectura y modelado de datos
 
-## _Arquitectura y modelado de datos_
+### Ajuste de datos de dispositivos de asistencia: 
+Una vez habiendo identificado 
 
 ![Arquitectura_SISRH](/Universidad_Central_de_Nicaragua/resources/arquitectura_sisrh.png)
 
